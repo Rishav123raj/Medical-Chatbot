@@ -4,5 +4,6 @@ pinecone-client
 langchain
 flask
 pyPdf2
+python-dotenv
 
 -e .
