@@ -25,3 +25,12 @@ This is a medical assistance chatbot built using Langchain, Vector Embeddings an
 - ```pip install -r requirements.txt```
 - Setup your GOOGLE_API_KEY
 - run ```python app.py```
+
+# Project Snippets
+<img width="425" alt="medchat-5" src="https://github.com/user-attachments/assets/9050d1bd-5ae5-48c4-a34f-9d43525a5a79" />
+<img width="493" alt="medchat-4" src="https://github.com/user-attachments/assets/36925996-1faa-4cb1-a5c3-b4c35ab55626" />
+<img width="443" alt="medchat-3" src="https://github.com/user-attachments/assets/b7185f7e-b735-4fb8-a39d-6f4b20c358e7" />
+<img width="439" alt="medchat-2" src="https://github.com/user-attachments/assets/78ddb390-6943-4649-bff3-958873bd7c52" />
+<img width="428" alt="medchat-1" src="https://github.com/user-attachments/assets/296bcf00-5686-4b11-876e-75b8d252d4c6" />
+
+
